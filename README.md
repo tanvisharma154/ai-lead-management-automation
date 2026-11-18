@@ -60,7 +60,7 @@ ai-lead-management-automation/
 9. Test the workflow using sample lead submissions.
 10. Activate the workflow after successful testing.
 
-**Note:** The exported JSON is a sanitized workflow template. Credentials and account-specific configuration must be added in your own n8n instance.
+
 
 ## 🎯 Learning Outcomes
 
